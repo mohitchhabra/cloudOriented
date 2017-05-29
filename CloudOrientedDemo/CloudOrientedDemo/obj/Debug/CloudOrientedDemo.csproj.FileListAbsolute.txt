@@ -1,0 +1,6 @@
+c:\users\mchhabra\documents\visual studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\bin\Debug\CloudOrientedDemo.exe.config
+C:\Users\mchhabra\Documents\Visual Studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\bin\Debug\CloudOrientedDemo.exe
+C:\Users\mchhabra\Documents\Visual Studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\bin\Debug\CloudOrientedDemo.pdb
+C:\Users\mchhabra\Documents\Visual Studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\obj\Debug\CloudOrientedDemo.csprojResolveAssemblyReference.cache
+C:\Users\mchhabra\Documents\Visual Studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\obj\Debug\CloudOrientedDemo.exe
+C:\Users\mchhabra\Documents\Visual Studio 2015\Projects\CloudOrientedDemo\CloudOrientedDemo\obj\Debug\CloudOrientedDemo.pdb
